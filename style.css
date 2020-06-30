@@ -50,6 +50,11 @@ section {
   border-radius: 5px;
   color: white;
   font-weight: 700;
+  opacity: 0.8;
+}
+
+.link-button:hover {
+  opacity: 1;
 }
 
 .dream-area {
@@ -62,6 +67,10 @@ section {
   box-shadow: 10px 10px 40px dimgray;
   border-radius: 5px;
   height: 80%;
+}
+
+.single-experience:hover {
+  box-shadow: 10px 10px 40px rgb(146, 143, 143);
 }
 
 .experience-area {

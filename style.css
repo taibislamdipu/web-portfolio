@@ -50,6 +50,11 @@ section {
   border-radius: 5px;
   color: white;
   font-weight: 700;
+  opacity: 0.8;
+}
+
+.link-button:hover {
+  opacity: 1;
 }
 
 .dream-area {
